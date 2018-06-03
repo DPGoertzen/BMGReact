@@ -1,0 +1,30 @@
+{
+  "name": "bmgreact",
+  "version": "1.0.0",
+  "description": "a bmg blog in react",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "webpack": "^4.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DPGoertzen/BMGReact.git"
+  },
+  "author": "DPGoertzen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DPGoertzen/BMGReact/issues"
+  },
+  "homepage": "https://github.com/DPGoertzen/BMGReact#readme"
+}
